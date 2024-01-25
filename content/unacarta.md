@@ -1,7 +1,7 @@
 ---
-title: Una carta por Everlook
+title: -Una carta- por Everlook
 date: "2023-09-20"
-thumbnail: image.jpg
+thumbnail: images/unacarta.jpg
 task: Mezcla y master
 youtubeEmbedCode: https://www.youtube.com/embed/5FEHns3AuNA?si=-NiIbjTPkcfuVWs2
 ---
