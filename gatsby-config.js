@@ -15,7 +15,7 @@ module.exports = {
     author: {
       name: config.siteTitle,
     },
-    description: config.siteDescription,
+    description: config.biography,
     siteUrl: config.siteUrl,
   },
   plugins: [

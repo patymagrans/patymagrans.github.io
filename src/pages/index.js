@@ -31,7 +31,7 @@ const BlogIndex = ({ data, location }) => {
           <Link to={config.authorInstagram} target="_blank"><i className="ri-instagram-line" /></Link>
           <Link to={ "mailto:" + config.authorMail } target="_blank"><i className="ri-mail-line" /></Link>
         </div>
-        <p className="longDescription">{config.longDescription}</p>
+        <p className="biography">{config.biography}</p>
         <div className="header-buttons">
           <Link to={ "mailto:" + config.authorMail + "?subject=Mezcla%20y%20master:" }>
             <button>Mezcla y master <i className="ri-arrow-right-line"/></button>
@@ -42,8 +42,8 @@ const BlogIndex = ({ data, location }) => {
           </Link>
         </div>
       </div>
-      <p className="onlyMobile longDescription">
-        {config.longDescription}
+      <p className="onlyMobile biography">
+        {config.biography}
       </p>
       <ol style={{ listStyle: `none` }} className="home-posts">
         {posts.map(post => {

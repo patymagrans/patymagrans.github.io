@@ -75,7 +75,7 @@ const BlogPostTemplate = ({
             </div>
             <div className="post-about-me-content">
               <h4>Sobre mi</h4>
-              <p>{config.longDescription}</p>
+              <p>{config.biography}</p>
               <Link to={ "mailto:" + config.authorMail }>
               <button>Contacto <i className="ri-arrow-right-line"/></button>
             </Link>
