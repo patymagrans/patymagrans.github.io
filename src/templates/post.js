@@ -74,10 +74,10 @@ const BlogPostTemplate = ({
               <img src={Profile} alt={config.siteTitle} />
             </div>
             <div className="post-about-me-content">
-              <h4>Sobre mi</h4>
+              <h4>{config.aboutMeTitle}</h4>
               <p>{config.biography}</p>
               <Link to={ "mailto:" + config.authorMail }>
-              <button>Contacto <i className="ri-arrow-right-line"/></button>
+              <button>Contact <i className="ri-arrow-right-line"/></button>
             </Link>
             </div>
           </div>
