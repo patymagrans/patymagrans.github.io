@@ -11,9 +11,9 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <div style={{ minHeight: "35vh" }}>
-        <h1>Página no encontrada</h1>
+        <h2>Not found</h2>
         <Link to="/">
-          Volver al inicio
+          Back to home
         </Link>
       </div>
     </Layout>

@@ -50,8 +50,8 @@ const Seo = ({ description, title, children }) => {
 
       <meta name="robots" content="index, follow" />
       <meta name="distribution" content="global" />
-      <meta http-equiv="content-language" content="es" />
-      <meta http-equiv="language" content="es" />
+      <meta http-equiv="content-language" content="en-us" />
+      <meta http-equiv="language" content="en-us" />
 
       <meta name="twitter:title" content={title}/>
       <meta name="twitter:description" content={description}/>

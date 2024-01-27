@@ -16,7 +16,7 @@ const BlogIndex = ({ data, location }) => {
     return (
       <Layout location={location} title={siteTitle}>
         <p>
-          No se encontraron entradas, pero seguro que en un tiempo habrán muchas por aquí.
+          No entries were found, but I'm sure there will be many here in a while.
         </p>
       </Layout>
     )
@@ -33,12 +33,12 @@ const BlogIndex = ({ data, location }) => {
         </div>
         <p className="biography">{config.biography}</p>
         <div className="header-buttons">
-          <Link to={ "mailto:" + config.authorMail + "?subject=Mezcla%20y%20master:" }>
-            <button>Mezcla y master <i className="ri-arrow-right-line"/></button>
+          <Link to={ "mailto:" + config.authorMail + "?subject=Audio%20post%20production:" }>
+            <button>Audio post production <i className="ri-arrow-right-line"/></button>
           </Link>
           <br/>
-          <Link to={ "mailto:" + config.authorMail + "?subject=Produccion%20musical:" }>
-            <button>Producción musical <i className="ri-arrow-right-line"/></button>
+          <Link to={ "mailto:" + config.authorMail + "?subject=Mix%20and%20master:" }>
+            <button>Mixing & master <i className="ri-arrow-right-line"/></button>
           </Link>
         </div>
       </div>
