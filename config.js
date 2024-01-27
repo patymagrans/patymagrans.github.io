@@ -7,8 +7,10 @@ const config = {
 
     authorMail: "patymagrans@gmail.com",
 
-    biography: "Paty Magrans is an argentine audio engineer who studied at the ORT University of Buenos Aires where he professionalized in the art of mixing and mastering, inspired by sound legends such as Jaycen Joshua and Dave Pensado."
+    biography: "Paty Magrans is an argentine audio engineer who studied at the ORT University of Buenos Aires where he professionalized in the art of mixing and mastering, inspired by sound legends such as Jaycen Joshua and Dave Pensado.",
     
+    footer: "Audio Engineering"
+
   };
   
   module.exports = config;

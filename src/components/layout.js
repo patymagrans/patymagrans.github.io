@@ -2,6 +2,8 @@ import * as React from "react"
 import ScrollArrow from "./scrollArrow"
 import Header from "./header"
 
+import config from "../../config"
+
 const Layout = ({ location, children, onlyMobile }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -20,7 +22,7 @@ const Layout = ({ location, children, onlyMobile }) => {
         <ScrollArrow />
       </div>
       <footer>
-        Ingeniería de Audio - Última actualización en {(new Date().getFullYear())}
+        {config.footer} - Last update in {(new Date().getFullYear())}
       </footer>
     </>
   )
