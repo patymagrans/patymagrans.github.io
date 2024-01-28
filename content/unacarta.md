@@ -1,8 +1,8 @@
 ---
-title: -Una carta- por Everlook
-date: "2023-09-20"
+title: -Una carta- by Everlook
+date: "2024-01-15"
 thumbnail: images/unacarta.jpg
-task: Mezcla y master
+task: Mix & Master
 youtubeEmbedCode: https://www.youtube.com/embed/5FEHns3AuNA?si=-NiIbjTPkcfuVWs2
 ---
 
