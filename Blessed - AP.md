@@ -1,9 +1,9 @@
 ---
-title: -Una carta- by Everlook
-date: "2024-01-15"
-thumbnail: images/unacarta.jpg
-task: Mix & Master
-youtubeEmbedCode: https://www.youtube.com/embed/5FEHns3AuNA?si=-NiIbjTPkcfuVWs2
+title: -AP- by BLESSD
+date: "2023-02-8"
+thumbnail: images/CAP1 - Blessd.jpg
+task: Audio for animated clip
+youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=Vg79x0-nqY45RYsl
 ---
 
 ## Lorem ipsum
