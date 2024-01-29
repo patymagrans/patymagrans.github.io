@@ -1,7 +1,7 @@
 ---
 title: -AP- by Blessd
 date: "2023-02-08"
-thumbnail: images/CAP1 - Blessd.jpg
+thumbnail: images/cap1-blessd.jpg
 task: Sound for animated clip
 youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=ZLp_z9a3f7LBObN-
 ---
