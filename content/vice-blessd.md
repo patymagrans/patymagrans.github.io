@@ -1,5 +1,5 @@
 ---
-title: -Pirlo- by Blessd
+title: -Vice- by Blessd
 date: "2023-02-28"
 thumbnail: images/cap2-blessd.jpg
 task: Sound for animated clip
