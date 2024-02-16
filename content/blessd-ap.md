@@ -6,11 +6,11 @@ task: Sound for animated clip
 youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=ZLp_z9a3f7LBObN-
 ---
 
-## Lorem ipsum
+## Animated intro for a videoclip
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eros massa, dapibus vel rhoncus eu, hendrerit eget dolor. In ultricies ante in eleifend vulputate. Donec sed risus arcu. Aliquam placerat dapibus mi, eget bibendum quam fermentum vitae. Phasellus auctor venenatis urna, sed condimentum neque tempor id. Suspendisse faucibus neque a ligula ultrices tristique. In dictum tristique leo sit amet vehicula. Sed et auctor nibh. Nullam neque risus, gravida vitae interdum sit amet, lobortis eu tellus. Etiam posuere, nisl vitae viverra iaculis, turpis risus laoreet tellus, quis hendrerit arcu nunc id leo. Aliquam eget metus et tellus ultricies mollis tincidunt a nunc. Vivamus a enim ullamcorper, imperdiet augue sodales, ultrices dolor. Mauris a nibh massa.
+Ambience is an essential part of every scene wich sound must be added. That is where I started: Adding an enviroment that situates the listener in time and place that the image is suggesting and sits every sound that is going to be added after.
 
-Sed ut libero sed lorem dignissim maximus. In ligula nunc, facilisis non massa et, tristique lacinia neque. Etiam nec enim eu tortor interdum elementum id vel sapien. Etiam odio massa, gravida id risus et, luctus vehicula tellus. In eget felis ac lectus laoreet molestie quis fringilla tellus. Donec diam libero, bibendum quis consectetur eu, sodales nec tellus. Donec tempus convallis mi et sodales. Ut aliquam dignissim dolor, eget feugiat quam aliquam non. Aenean eu vulputate magna. Fusce eu tellus nec massa convallis condimentum vitae eu metus.
+I carfted an abience sound editing, stacking and processing library sounds.
 
 ### Lorem ipsum
 
