@@ -18,3 +18,4 @@ I carfted every sound editing, stacking and processing library sounds.
 
 After designing all the sounds I automated filters and more effects to follow the camera's POV and give that proximity/remoteness effect.
 
+I made more complete versions, with more sounds, but I don't know why they decided to put an incomplete version to the music video.
