@@ -9,7 +9,7 @@ const config = {
 
     aboutMeTitle: "About me",
 
-    biography: "Paty Magrans is an argentine audio engineer who studied at the ORT University of Buenos Aires where he professionalized in the art of mixing and mastering, inspired by sound legends such as Jaycen Joshua and Dave Pensado.",
+    biography: "Hello, I'm Agustín Patiño Magrans a. k. a. Paty Magrans. I am an Argentinian sound technician and music producer graduated from ORT Argentina. I did various jobs in the field of sound such as sound post-production for animations, music mixing and mastering, sound design and middleware integration for video games.",
     
     footer: "Audio Engineering"
 
