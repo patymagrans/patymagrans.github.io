@@ -8,7 +8,7 @@ youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=ZLp_z9a3f7LBObN-
 
 ## Animated intro for videoclip
 
-My job in this project was to make the sound of the 10-second animated videoclip intro for 'AP' by Blessd.
+My job was to design the sound for the 10-second videoclip animation intro for 'AP' by Blessd. It was my first job of this kind. My experience in this area came from practice at university.
 
 ### Process
 
@@ -18,6 +18,3 @@ I carfted every sound editing, stacking and processing library sounds.
 
 After designing all the sounds I automated filters and more effects to follow the camera's POV and give that proximity/remoteness effect.
 
-#### Conflicts during the process
-
-I tried 
