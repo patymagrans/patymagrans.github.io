@@ -6,6 +6,7 @@ task: Mix & Master
 youtubeEmbedCode: https://www.youtube.com/embed/bGAAUVlWepU?si=kGP5avUX-f7tYZwI
 ---
 
+
 With this song I was confronted with a genre that I wasn't very familiar with. At first I underestimated it and, when I understood that it was not as I thought, I began a process of learning and internalizing the genre. 
 
 ## Mix
