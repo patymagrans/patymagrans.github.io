@@ -6,12 +6,14 @@ task: Sound for animated clip
 youtubeEmbedCode: https://www.youtube.com/embed/YkK8yrrnBZs?si=gRUbwOLySyiBku9S
 ---
 
-## Lorem ipsum
+## Animated intro for videoclip
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eros massa, dapibus vel rhoncus eu, hendrerit eget dolor. In ultricies ante in eleifend vulputate. Donec sed risus arcu. Aliquam placerat dapibus mi, eget bibendum quam fermentum vitae. Phasellus auctor venenatis urna, sed condimentum neque tempor id. Suspendisse faucibus neque a ligula ultrices tristique. In dictum tristique leo sit amet vehicula. Sed et auctor nibh. Nullam neque risus, gravida vitae interdum sit amet, lobortis eu tellus. Etiam posuere, nisl vitae viverra iaculis, turpis risus laoreet tellus, quis hendrerit arcu nunc id leo. Aliquam eget metus et tellus ultricies mollis tincidunt a nunc. Vivamus a enim ullamcorper, imperdiet augue sodales, ultrices dolor. Mauris a nibh massa.
+In the music video for 'Fendi & Valentino' by Blessd I had to design the sound of the 10-second animated intro. This was my third job and a similar approach to 'AP' and 'Vice'.
 
-Sed ut libero sed lorem dignissim maximus. In ligula nunc, facilisis non massa et, tristique lacinia neque. Etiam nec enim eu tortor interdum elementum id vel sapien. Etiam odio massa, gravida id risus et, luctus vehicula tellus. In eget felis ac lectus laoreet molestie quis fringilla tellus. Donec diam libero, bibendum quis consectetur eu, sodales nec tellus. Donec tempus convallis mi et sodales. Ut aliquam dignissim dolor, eget feugiat quam aliquam non. Aenean eu vulputate magna. Fusce eu tellus nec massa convallis condimentum vitae eu metus.
+### Process
 
-### Lorem ipsum
+This animation proposed a scenario with the atmosphere and ambience of a boxing gym. I decided to start working by recreating this space in which the viewer had to be placed.
 
-Aenean tempor lacus sed magna faucibus, vitae faucibus metus aliquet. Sed viverra arcu vitae ex fermentum volutpat. Proin ornare dolor neque, nec scelerisque nulla tristique vulputate. Mauris ut mi dolor. Fusce varius, eros eget egestas cursus, turpis velit volutpat velit, sit amet tempus tellus metus sed dolor. Donec ultrices lorem nec fringilla dapibus. Cras eget lacinia risus. Phasellus ut sapien eget felis feugiat congue. Phasellus semper elit eget porttitor suscipit. Vestibulum accumsan quam ac pellentesque ultrices. Curabitur ornare dapibus leo et molestie. Sed vel tincidunt nulla.
+I carfted every sound editing, stacking and processing library sounds. 
+
+After designing all the sounds I automated filters and more effects to follow the camera's POV and give that proximity/remoteness effect.
