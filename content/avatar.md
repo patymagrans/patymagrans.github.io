@@ -6,7 +6,7 @@ task: Foley to replace movie scene sound
 youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=ZLp_z9a3f7LBObN-
 ---
 
-## Sound replacement for an Avatar scene by the use of Foley
+## Sound replacement by the use of Foley
 
 My job was to design the sound for the 10-second videoclip animation intro for 'AP' by Blessd. It was my first job of this kind. My experience in this area came from practice at university.
 
