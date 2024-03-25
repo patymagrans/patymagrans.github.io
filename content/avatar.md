@@ -3,7 +3,7 @@ title: -Avatar scene-
 date: "2023-11-24"
 thumbnail: images/avatar.jpg
 task: Foley to replace movie scene sound
-youtubeEmbedCode: https://www.youtube.com/embed/gNWDqZ4vi3w?si=ZLp_z9a3f7LBObN-
+youtubeEmbedCode: https://www.youtube.com/embed/9kQ_lo3HmSY?si=HnDTPCbk12MFYX6V-
 ---
 
 ## Sound replacement by the use of Foley
