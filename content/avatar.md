@@ -1,5 +1,5 @@
 ---
-title: -Avatar scene-
+title: -Avatar scene soundreplacement-
 date: "2023-11-24"
 thumbnail: images/avatar.jpg
 task: Foley to replace movie scene sound
