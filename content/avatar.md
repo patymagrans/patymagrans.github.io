@@ -8,14 +8,10 @@ youtubeEmbedCode: https://www.youtube.com/embed/9kQ_lo3HmSY?si=HnDTPCbk12MFYX6V-
 
 ## Sound replacement by the use of Foley
 
-My job was to design the sound for the 10-second videoclip animation intro for 'AP' by Blessd. It was my first job of this kind. My experience in this area came from practice at university.
+In this scene from the movie Avatar, I decided to replace the sound by challenging myself to use mostly sounds recorded by me (foley).
 
 ### Process
 
-Ambience is an essential part of every scene wich sound must be added. That is where I started: Adding an enviroment that situates the listener in time and place that the image is suggesting and sits every sound that is going to be added after.
+This scene is set in a jungle of a world remote from ours. With these initial environmental characteristics, I developed a sound environment that places the characters and the audience in relation to the image. For this, I recorded sounds of plants in motion, recorded my voice, and edited to achieve sounds of alien animals, and also used library sounds to finish designing the environment.
 
-I carfted every sound editing, stacking and processing library sounds. 
-
-After designing all the sounds I automated filters and more effects to follow the camera's POV and give that proximity/remoteness effect.
-
-I made more complete versions with more sounds but I don't know why they decided to put an incomplete version to the music video
+The sounds of the characters are mostly recorded by doing foley: from movements to breaths.
