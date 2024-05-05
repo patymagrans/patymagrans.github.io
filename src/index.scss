@@ -364,7 +364,15 @@ h6 {
     .header-icons {
       margin-top: 38px;
       margin-bottom: 46px;
-      .ri-instagram-line { margin-right: 28px; }
+      .ri-youtube-line, .ri-fiverr-line { margin-right: 28px; }
+      .ri-fiverr-line {
+        background-image: url("data:image/svg+xml;utf8,<svg fill='%23000' width='20px' height='20px' viewBox='-2.5 -2 24 24' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin' class='jam jam-fiverr'><path d='M16.25 16.25v-10h-10v-.625c0-1.034.841-1.875 1.875-1.875H10V0H8.125A5.632 5.632 0 0 0 2.5 5.625v.625H0V10h2.5v6.25H0V20h8.75v-3.75h-2.5V10h6.285v6.25H10V20h8.75v-3.75h-2.5z'/><circle cx='14.375' cy='1.875' r='1.875'/></svg>");
+        width: 20px;
+        height: 20px;
+        background-position: center;
+        background-repeat: none;
+        display: inline-block;
+      }
       font-size: 24px;
       a { color: black; }
     }
@@ -411,7 +419,15 @@ h6 {
     width: 100%;
     top: 0;
     .navbar-icons {
-      .ri-instagram-line { margin-right: 28px; }
+      .ri-youtube-line, .ri-fiverr-line { margin-right: 28px; }
+      .ri-fiverr-line {
+        background-image: url("data:image/svg+xml;utf8,<svg fill='%23000' width='20px' height='20px' viewBox='-2.5 -2 24 24' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin' class='jam jam-fiverr'><path d='M16.25 16.25v-10h-10v-.625c0-1.034.841-1.875 1.875-1.875H10V0H8.125A5.632 5.632 0 0 0 2.5 5.625v.625H0V10h2.5v6.25H0V20h8.75v-3.75h-2.5V10h6.285v6.25H10V20h8.75v-3.75h-2.5z'/><circle cx='14.375' cy='1.875' r='1.875'/></svg>");
+        width: 20px;
+        height: 20px;
+        background-position: center;
+        background-repeat: none;
+        display: inline-block;
+      }
       font-size: 24px;
       a { color: black; }
     }
@@ -426,6 +442,35 @@ h6 {
 
   .onlyMobile {
     display: none;
+  }
+
+  .soundcloudPlaylist-wrapper{
+    position: relative;
+    margin-top: 64px;
+    margin-bottom: -60px;
+    padding: 0 40px;
+    text-align: left;
+    h4 { 
+      text-transform: uppercase;
+      font-weight: 900;
+      font-size: 12px;
+      letter-spacing: 0.6px;
+    }
+    .soundcloudPlaylist-prettier {
+      position: absolute;
+      z-index: 2;
+      width: 100%;
+      height: 60px;
+      background-color: $white;
+      bottom: 0;
+      left: 0;
+    }
+    .soundcloudPlaylist {
+      position: relative;
+      z-index: 1;
+      height: 450px;
+      width: 100%;
+    }
   }
   
   /* Media queries */
@@ -475,6 +520,9 @@ h6 {
     }
     .blog-youtube {
       height: 360px;
+    }
+    .soundcloudPlaylist-wrapper{
+      padding: 0;
     }
   }
 

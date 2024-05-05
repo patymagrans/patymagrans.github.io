@@ -12,7 +12,8 @@ const Header = ({ onlyMobile }) => (
     <div className="navbar">
       <Link to="/"><img src={Logo} alt={config.siteTitle}/></Link>
       <div className="navbar-icons">
-        <Link to={config.authorInstagram} target="_blank"><i className="ri-instagram-line" /></Link>
+          <Link to={config.authorYoutube} target="_blank"><i className="ri-youtube-line" /></Link>
+          <Link to={config.authorFiverr} target="_blank"><i className="ri-fiverr-line" /></Link>
         <Link to={ "mailto:" + config.authorMail } target="_blank"><i className="ri-mail-line" /></Link>
       </div>
     </div>
