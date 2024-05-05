@@ -3,7 +3,7 @@ const config = {
     siteUrl: "https://patymagrans.github.io/",
 
     authorFiverr: "https://www.fiverr.com/patymagrans",
-    authorYoutube: "https://www.youtube.com/@patygrans3318",
+    authorYoutube: "https://www.youtube.com/channel/UCdqOK196ABjicLNeEEehdhw",
 
     authorMail: "patymagrans@gmail.com",
 
