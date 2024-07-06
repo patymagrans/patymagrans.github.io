@@ -73,7 +73,7 @@ const BlogIndex = ({ data, location }) => {
           <iframe className="soundcloudPlaylist" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1814131524%3Fsecret_token%3Ds-9nbCpjwglDi&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
           <div className="soundcloudPlaylist-prettier" />
         </div>
-        <Link to={ "mailto:" + config.authorMail + "?subject=Ask%20for%20WAV:" }>{config.askWavTitle}</Link>
+        <Link to={ "mailto:" + config.authorMail + "?subject=Ask%20for%20WAV:" } className="text-link">{config.askWavTitle}</Link>
       </ol>
       </>
     </Layout>
