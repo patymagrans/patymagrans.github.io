@@ -1,5 +1,5 @@
 ---
-title: -Metales- by ¿Y Estos Quienes Son?
+title: -METALES- by Y Estos Quienes Son
 date: "2024-11-14"
 thumbnail: images/metales.jpg
 task: Mix & Master
